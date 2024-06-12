@@ -32,6 +32,7 @@ You have been provided with some raw HTML/CSS and a few text strings and JavaScr
 - Generates a new random silly story every time the button is pressed.
 
 The following screenshot shows an example of what the finished program should output:
+
 ![Screenshot of how the example should look after completing the assessment](sillystory.png)
 
 The silly story generator app consists of a text field, two radio buttons, and a button to generate a random story.
